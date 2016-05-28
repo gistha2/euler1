@@ -1,0 +1,6 @@
+C:\Users\Gishean.T\Documents\Visual Studio 2015\Projects\Project Euler\Project Euler 3 - Largest P Factor\Project Euler 3 - Largest P Factor\bin\Debug\Project Euler 3 - Largest P Factor.exe.config
+C:\Users\Gishean.T\Documents\Visual Studio 2015\Projects\Project Euler\Project Euler 3 - Largest P Factor\Project Euler 3 - Largest P Factor\bin\Debug\Project Euler 3 - Largest P Factor.exe
+C:\Users\Gishean.T\Documents\Visual Studio 2015\Projects\Project Euler\Project Euler 3 - Largest P Factor\Project Euler 3 - Largest P Factor\bin\Debug\Project Euler 3 - Largest P Factor.pdb
+C:\Users\Gishean.T\Documents\Visual Studio 2015\Projects\Project Euler\Project Euler 3 - Largest P Factor\Project Euler 3 - Largest P Factor\obj\Debug\Project Euler 3 - Largest P Factor.csprojResolveAssemblyReference.cache
+C:\Users\Gishean.T\Documents\Visual Studio 2015\Projects\Project Euler\Project Euler 3 - Largest P Factor\Project Euler 3 - Largest P Factor\obj\Debug\Project Euler 3 - Largest P Factor.exe
+C:\Users\Gishean.T\Documents\Visual Studio 2015\Projects\Project Euler\Project Euler 3 - Largest P Factor\Project Euler 3 - Largest P Factor\obj\Debug\Project Euler 3 - Largest P Factor.pdb
